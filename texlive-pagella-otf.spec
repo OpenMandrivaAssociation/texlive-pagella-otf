@@ -1,6 +1,6 @@
 Name:		texlive-pagella-otf
 Version:	64705
-Release:	1
+Release:	2
 Summary:	Using the OpenType fonts TeX Gyre Pagella
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pagella-otf
